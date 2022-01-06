@@ -1,17 +1,12 @@
-# Getting Started with Building Calculator Web App
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Live Calculator WebApp Demo [Click Here](http://PranaV-Shimpi.github.io/react-calculator/) 
 
-## Available Scripts
+## Run project on your localhost
 
-In the project directory, you can run:
-
+### `git clone <link>`
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 # Calculator Components
 <p align="center">
